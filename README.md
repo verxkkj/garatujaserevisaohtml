@@ -1,1 +1,29 @@
-# garatujaserevisaohtml
+PROGRAMAÇÃO ORIENTADA OBJETO
+
+Objeto: é uma instância concreta criada a partir de uma classe. Cada objeto tem seus próprios valores para os atributos, representando um estado específico. 
+
+Métodos: são comportamentos ou ações que um objeto pode realizar. 
+
+Funções:  é um trecho de código que recebe entradas, processa e retorna algo, sem necessariamente estar ligada a um objeto.
+
+Classes: definem a estrutura, quais características (atributos) e comportamentos (métodos) um objeto terá, mas não é o objeto em si. 
+
+Atributos: são as características ou propriedades de um objeto. São declarados dentro da classe, mas fora de métodos.
+
+Variáveis: existem apenas dentro de um método durante sua execução e desaparecem depois.
+
+Construtores: é um método especial, chamado automaticamente no momento em que um objeto é instanciado.
+
+Getters e Setters: são métodos públicos usados para acessar e modificar atributos privados (encapsulamento). Get lê o valor de um atributo, set altera o valor de um atributo.
+
+Encapsulamento:  técnica de ocultar os detalhes internos de funcionamento de um objeto e proteger seus dados.  
+
+Herança: uma classe (filha) herda atributos e métodos de outra classe (pai). 
+
+Modificadores de Acesso: palavras-chave que definem a visibilidade de classes, atributos e métodos: public, private e protected.
+
+Métodos e Atributos Estáticos (static): membros declarados como static pertencem à classe, e não a um objeto específico. 
+
+this: É uma referência ao próprio objeto atual. Usado para diferenciar um atributo da classe de um parâmetro local com o mesmo nome 
+
+super: É uma referência à classe pai. Usado para chamar construtores da classe pai ou acessar atributos do pai que foram sobrescritos na filha. 
